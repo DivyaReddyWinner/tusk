@@ -1,0 +1,10 @@
+welcome to git repo
+    
+    js
+    angular
+    react
+    node
+    mongo
+    
+    
+    
