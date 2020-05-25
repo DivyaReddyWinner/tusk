@@ -5,6 +5,8 @@ welcome to git repo
     react
     node
     mongo
+    redux
+    
     
     
     
